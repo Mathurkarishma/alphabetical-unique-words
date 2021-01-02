@@ -13,7 +13,6 @@ Displays unique words in text file in alphabetical order.
 -->
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![Profile views](https://github.com/Mathurkarishma/romeo-unique-words/)
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -24,6 +23,7 @@ Displays unique words in text file in alphabetical order.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors](/<Contributors>--<Karishma Mathur>-<COLOR>.svg)](https://github.com/Mathurkarishma/romeo-unique-words/)
+[![Contributors](https://img.shields.io/badge/Contributor-Karishma%20Mathur-blue/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://img.shields.io/badge/Contributor-Karishma%20Mathur-blue)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
