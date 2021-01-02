@@ -1,13 +1,6 @@
 # alphabetical-unique-words
 Displays unique words in text file in alphabetical order.
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
 *** To avoid retyping too much info. Do a search and replace for the following:
 *** Mathurkarishma, romeo-unique-words, twitter_handle, email, Romeo Unique Words, Displays unique words in text file in alphabetical order.
 -->
@@ -22,7 +15,7 @@ Displays unique words in text file in alphabetical order.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -186,8 +179,8 @@ Project Link: [https://github.com/Mathurkarishma/romeo-unique-words](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Mathurkarishma/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Mathurkarishma/repo/graphs/contributors
+[contributors-shield]: https://img.shields.io/badge/Contributor-Karishma%20Mathur-blue
+[contributors-url]: https://img.shields.io/badge/Contributor-Karishma%20Mathur-blue
 [forks-shield]: https://img.shields.io/github/forks/Mathurkarishma/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/Mathurkarishma/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/Mathurkarishma/repo.svg?style=for-the-badge
