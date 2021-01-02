@@ -15,7 +15,7 @@ Displays unique words in text file in alphabetical order.
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -180,7 +180,7 @@ Project Link: [https://github.com/Mathurkarishma/romeo-unique-words](https://git
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/Contributor-Karishma%20Mathur-blue
-[contributors-url]: https://img.shields.io/badge/Contributor-Karishma%20Mathur-blue
+[contributors-url]: 
 [forks-shield]: https://img.shields.io/github/forks/Mathurkarishma/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/Mathurkarishma/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/Mathurkarishma/repo.svg?style=for-the-badge
