@@ -13,7 +13,7 @@ Displays unique words in text file in alphabetical order.
 -->
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-![Profile views](https://github.com/Mathurkarishma/romeo-unique-words/)
+[![Profile views](https://github.com/Mathurkarishma/romeo-unique-words/)
 
 <!-- PROJECT SHIELDS -->
 <!--
