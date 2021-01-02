@@ -12,7 +12,8 @@ Displays unique words in text file in alphabetical order.
 *** github_username, repo_name, twitter_handle, email, project_title, project_description
 -->
 
-
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+![Profile views](https://github.com/Mathurkarishma/romeo-unique-words/)
 
 <!-- PROJECT SHIELDS -->
 <!--
