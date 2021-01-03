@@ -70,7 +70,7 @@ Below is an example of using the `romeo.txt` file in the program.  The output re
 
 <img src="romeo.JPG" alt="romeo">
 
-Below is another example using the `romeo_copy.txt` file.  I created this text file to prove the program works by using my own name in the file.
+Below is another example using the `romeo_copy.txt` file.  I created this text file to prove the program works by using my own name in the file.  Easily try your own text file with this program by saving it into the same folder.
 
 <img src="romeo_copy.JPG" alt="romeo_copy">
 
