@@ -12,7 +12,7 @@
   <h3 align="center">Unique Words in Romeo & Juliet</h3>
 
   <p align="center">
-    Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  An extra bonus, the words will be shown in alphabetical order.  This just makes it nicer for a human to read.
+    Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  An extra bonus, the words will be shown in alphabetical order.  This just makes it nicer for a human to read.  You're more than welcome to alter the code to use your own text files to convince others that they may need to expand their vocabulary...
     <br />
     <a href="https://github.com/Mathurkarishma/romeo-unique-words"><strong>Explore the docs »</strong></a>
     <br />
@@ -37,10 +37,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -57,6 +53,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  An extra bonus, the words will be shown in alphabetical order.  This just makes it nicer for a human to read.  You're more than welcome to alter the code to use your own text files to convince others that they may need to expand their vocabulary...
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -75,26 +73,11 @@ Here's a blank template to get started:
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Mathurkarishma/romeo-unique-words.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
 
 
 <!-- USAGE EXAMPLES -->
