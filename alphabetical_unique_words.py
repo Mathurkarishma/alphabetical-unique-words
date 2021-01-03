@@ -1,9 +1,3 @@
-#DATA 620
-#Assignment 11.2
-#Professor Menta
-#Written by Karishma Mathur
-#December 8, 2019
-
 #This program will ask the user for a file and extract separate words line by line
 #It will add only unique words to a list and sort it alphabetically
 
