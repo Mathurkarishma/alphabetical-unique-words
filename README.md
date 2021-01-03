@@ -1,46 +1,22 @@
-# alphabetical-unique-words
-Displays unique words in text file in alphabetical order.
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
 *** Mathurkarishma, romeo-unique-words, twitter_handle, email, Romeo Unique Words, Displays unique words in text file in alphabetical order.
 -->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Mathurkarishma/romeo-unique-words">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Romeo Unique Words</h3>
+  <h3 align="center">Unique Words in Romeo & Juliet</h3>
 
   <p align="center">
-    Displays unique words in text file in alphabetical order.
+    Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  An extra bonus, the words will be shown in alphabetical order.  This just makes it nicer for a human to read.
     <br />
     <a href="https://github.com/Mathurkarishma/romeo-unique-words"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Mathurkarishma/romeo-unique-words">View Demo</a>
-    ·
     <a href="https://github.com/Mathurkarishma/romeo-unique-words/issues">Report Bug</a>
     ·
     <a href="https://github.com/Mathurkarishma/romeo-unique-words/issues">Request Feature</a>
