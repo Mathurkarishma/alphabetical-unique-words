@@ -68,7 +68,9 @@ To get a local copy up and running, download Python 3 and use the `alphabetical_
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-<img src="romeo.JPG" alt="romeo" width="1227" height="333">
+Below is an example of using the `romeo.txt` file in the program.  The output represents the unique words in alphabetical order of Romeo's speech.  This program can end up being very useful if you want to add more to the program such as count each of the words.  Finding unique words in a text file can also be useful to especially note if a word was misspelled, that a general replace all commas and apostrophies or remove whitespaces would do.  This happens a lot due to manual entries in data, more likely in text files.
+
+<img src="romeo.JPG" alt="romeo">
 
 <!-- CONTACT -->
 ## Contact
