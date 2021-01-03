@@ -41,7 +41,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -108,18 +107,10 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Karishma Mathur - karishma324@gmail.com
 
 Project Link: [https://github.com/Mathurkarishma/romeo-unique-words](https://github.com/Mathurkarishma/romeo-unique-words)
 
@@ -138,15 +129,15 @@ Project Link: [https://github.com/Mathurkarishma/romeo-unique-words](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/Contributor-Karishma%20Mathur-blue
-[contributors-url]: 
-[forks-shield]: https://img.shields.io/github/forks/Mathurkarishma/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Mathurkarishma/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Mathurkarishma/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Mathurkarishma/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Mathurkarishma/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Mathurkarishma/repo/issues
-[license-shield]: https://img.shields.io/github/license/Mathurkarishma/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Mathurkarishma/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/github_username/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/github_username/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/github_username/repo/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Mathurkarishma
+[linkedin-url]: https://linkedin.com/in/github_username
