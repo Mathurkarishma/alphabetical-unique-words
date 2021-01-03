@@ -12,7 +12,7 @@
   <h3 align="center">Unique Words in Romeo & Juliet</h3>
 
   <p align="center">
-    Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  An extra bonus, the words will be shown in alphabetical order.  This just makes it nicer for a human to read.  You're more than welcome to alter the code to use your own text files to convince others that they may need to expand their vocabulary...
+    How genius was Shakespeare really?
     <br />
     <a href="https://github.com/Mathurkarishma/romeo-unique-words"><strong>Explore the docs »</strong></a>
     <br />
@@ -51,33 +51,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  An extra bonus, the words will be shown in alphabetical order.  This just makes it nicer for a human to read.  You're more than welcome to alter the code to use your own text files to convince others that they may need to expand their vocabulary...
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`Mathurkarishma`, `romeo-unique-words`, `twitter_handle`, `email`, `Romeo Unique Words`, `Displays unique words in text file in alphabetical order.`
-
 
 ### Built With
 
-* [Python 3](https://www.python.org/)
-* [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
-* []()
+* [Python 3](https://www.python.org/downloads/)
+* [IDLE](https://www.python.org/downloads/)
+* Text Files
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
+To get a local copy up and running, download Python 3 and use the `alphabetical_unique_words.py` file to obtain the code.  Download the `romeo.txt` and `romeo_copy.txt` text files into the same folder as the Python file, then run the code as is in an integrated development environment software such as IDLE.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
