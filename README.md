@@ -62,8 +62,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
+* [Python 3](https://www.python.org/)
+* [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 * []()
 
 
