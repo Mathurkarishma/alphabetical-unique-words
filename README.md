@@ -12,7 +12,7 @@
   <h3 align="center">Unique Words in Romeo & Juliet</h3>
 
   <p align="center">
-    How genius was Shakespeare really?
+    Did Shakespeare truly have a way with words?
     <br />
     <a href="https://github.com/Mathurkarishma/romeo-unique-words"><strong>Explore the docs »</strong></a>
     <br />
