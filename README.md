@@ -66,7 +66,7 @@ To get a local copy up and running, download the `alphabetical_unique_words.py` 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Using the `romeo.txt` file in IDLE.
+Using the `romeo.txt` file in IDLE:
 
 <img src="romeo.JPG" alt="romeo">
 
