@@ -68,11 +68,11 @@ To get a local copy up and running, download the `alphabetical_unique_words.py` 
 
 Using the `romeo.txt` file in IDLE:
 
-<img src="romeo.JPG" alt="romeo">
+<img src="images/romeo.JPG" alt="romeo">
 
 Using the `romeo_copy.txt` file in IDLE:
 
-<img src="romeo_copy.JPG" alt="romeo_copy">
+<img src="images/romeo_copy.JPG" alt="romeo_copy">
 
 Using the `romeo.txt` file in Command Prompt:
 
