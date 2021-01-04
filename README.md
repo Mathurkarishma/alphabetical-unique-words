@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  Finding unique words in a text file can be useful to note if a word was misspelled, that a general replace all commas and apostrophies or remove whitespaces would not do.  This happens a lot due to manual entries in data, more likely in text files.  An extra bonus, the words will be shown in alphabetical order.  This would make it nicer for a human to read, and even for a computer to quickly scan through.  You're more than welcome to test your own text files to convince others that they may need to expand their vocabulary... :)
+Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  Finding unique words in a text file can be useful to note if a word was misspelled, that a general replace all commas and apostrophies or remove whitespaces would not do.  This happens a lot due to manual entries in data, more likely in text files.  An extra bonus, the words will be shown in alphabetical order.  This would make it nicer for a human to read, and even for a computer to quickly search through.  You're more than welcome to test your own input files to convince others that they may need to expand their vocabulary... :)
 
 ### Built With
 
@@ -61,21 +61,23 @@ Sometimes it is important to determine unique words in text.  We might also simp
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running, download the `alphabetical_unique_words.py` file and the text files, `romeo.txt` and `romeo_copy.txt`, into the same folder. Then run the code in an IDE software, such as IDLE.  It can also be viewed in Command Prompt through the below commands.
-
-`>>python3 alphabetical_unique_words.py` <br />
-`>>Enter the file name: romeo.txt`
+To get a local copy up and running, download the `alphabetical_unique_words.py` file and the text input files, `romeo.txt` and `romeo_copy.txt`, into the same folder. Then run the code in an IDE software, such as IDLE, or in Command Prompt.  The `romeo.txt` file contains Romeo's speech, while the `romeo_copy.txt` file was used to prove to my professor that my program works by using my own name.  Easily try your own text file wiht this program _by saving it into the same folder._
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Below is an example of using the `romeo.txt` file in IDLE.  The output represents the unique words in alphabetical order of Romeo's speech.
+Using the `romeo.txt` file in IDLE.
 
 <img src="romeo.JPG" alt="romeo">
 
-Below is another example using the `romeo_copy.txt` file.  I created this text file to prove to my professor that the program works by using my own name in the file.  Easily try your own text file with this program _by saving it into the same folder._
+Using the `romeo_copy.txt` file in IDLE:
 
 <img src="romeo_copy.JPG" alt="romeo_copy">
+
+Using the `romeo.txt` file in Command Prompt.
+
+`>>python3 alphabetical_unique_words.py` <br />
+`>>Enter the file name: romeo.txt`
 
 <!-- CONTACT -->
 ## Contact
