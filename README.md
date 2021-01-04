@@ -61,7 +61,7 @@ Sometimes it is important to determine unique words in text.  We might also simp
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running, download the `alphabetical_unique_words.py` file and the text input files, `romeo.txt` and `romeo_copy.txt`, into the same folder. Then run the code in an IDE software, such as IDLE, or in Command Prompt.  The `romeo.txt` file contains Romeo's speech, while the `romeo_copy.txt` file was used to prove to my professor that my program works by using my own name.  Easily try your own text file wiht this program _by saving it into the same folder._
+To get a local copy up and running, download the `alphabetical_unique_words.py` file and the text input files, `romeo.txt` and `romeo_copy.txt`, into the same folder. Then run the code in an IDE software, such as IDLE, or in Command Prompt.  The `romeo.txt` file contains Romeo's speech, while the `romeo_copy.txt` file was used to prove to my professor that my program works by using my own name.  Easily try your own text file with this program _by saving it into the same folder._
 
 <!-- USAGE EXAMPLES -->
 ## Usage
