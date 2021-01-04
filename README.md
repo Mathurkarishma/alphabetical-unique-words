@@ -92,7 +92,7 @@ Project Link: [https://github.com/Mathurkarishma/romeo-unique-words](https://git
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Dr. Prasanna Menta at University of Maryland, Global Campus - Fall 2019](https://www.umgc.edu/)
+* Dr. Prasanna Menta at [University of Maryland, Global Campus](https://www.umgc.edu/) - Fall 2019
 
 
 
