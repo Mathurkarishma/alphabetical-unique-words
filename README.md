@@ -78,7 +78,7 @@ Using the `romeo.txt` file in Command Prompt:
 
 `>>python3 alphabetical_unique_words.py` <br />
 `>>Enter the file name: romeo.txt` <br />
-`['Arise', 'But', 'It', 'Juliet', 'Who', 'already', 'and', 'breaks', 'east', 'envious', 'fair', 'grief', 'is', 'kill', 'light', 'moon', 'pale', 'sick', 'soft', 'sun', 'the', 'through', 'what', 'window', 'with', 'yonder']`
+`>>['Arise', 'But', 'It', 'Juliet', 'Who', 'already', 'and', 'breaks', 'east', 'envious', 'fair', 'grief', 'is', 'kill', 'light', 'moon', 'pale', 'sick', 'soft', 'sun', 'the', 'through', 'what', 'window', 'with', 'yonder']`
 
 <!-- CONTACT -->
 ## Contact
