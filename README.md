@@ -72,7 +72,7 @@ Using the `romeo.txt` file in IDLE:
 
 Using the `proof.txt` file in IDLE:
 
-<img src="images/romeo_copy.JPG" alt="romeo_copy">
+<img src="images/proof.JPG" alt="proof">
 
 Using the `romeo.txt` file in Command Prompt:
 
