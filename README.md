@@ -46,7 +46,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT --> 
 ## About The Project
 
 Sometimes it is important to determine unique words in text.  We might also simply be curious how truly genius Shakespeare was!  Use this code to display the unique words in Romeo's famous speech confessing his love to Juliet.  Finding unique words in a text file can be useful to note if a word was misspelled, that a general replace all commas and apostrophies or remove whitespaces would not do.  This happens a lot due to manual entries in data, more likely in text files.  An extra bonus, the words will be shown in alphabetical order.  This would make it nicer for a human to read, and even for a computer to quickly search through.  You're more than welcome to test your own input files to convince others that they may need to expand their vocabulary... ☺
